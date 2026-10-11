@@ -1,0 +1,13 @@
+model: sample_model
+
+steps:
+  train:
+    enabled: true
+
+  evaluate:
+    enabled: true
+
+  conditional_register:
+    enabled: true
+    metric: auc
+    threshold: 0.85
