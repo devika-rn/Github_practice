@@ -1,0 +1,8 @@
+# Default owner
+* @devika-rn
+
+# Protected platform paths
+/.github/workflows/ @nrdevika29
+/pipeline/          @nrdevika29
+/iac/               @nrdevika29
+/CODEOWNERS         @nrdevika29
