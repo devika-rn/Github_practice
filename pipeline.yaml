@@ -10,4 +10,4 @@ steps:
   conditional_register:
     enabled: true
     metric: auc
-    threshold: 0.85
+    threshold: 0.90
